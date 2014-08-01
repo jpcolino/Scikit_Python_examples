@@ -1,4 +1,3 @@
-__author__ = 'JPC'
 import numpy as np
 import matplotlib.pyplot as plt
 from math import sin, pi
