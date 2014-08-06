@@ -3,7 +3,7 @@
 Libsvm GUI
 ==========
 
-A simple graphical frontend for Libsvm mainly intended for didactic
+A simple graphical frontend for SMV Scikit-learn mainly intended for didactic
 purposes. You can create data points by point and click and visualize
 the decision region induced by different kernels and parameter settings.
 
