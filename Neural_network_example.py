@@ -135,7 +135,7 @@ for i in range(25):
 	training_error = training_error + \\
 		math.pow(network.forward_pass(training[i]) \\
         - training[i][2], 2)
-    network.tune_weights(training[i][2])
+	network.tune_weights(training[i][2])
 
 
 training_error = training_error/25
